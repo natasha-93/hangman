@@ -1,0 +1,154 @@
+.app {
+  margin: auto;
+  background-color: white;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 6px 6px 20px 2px rgba(0, 0, 0, 0.75);
+  border: none;
+  border-radius: 1rem;
+}
+
+.image {
+  margin: 2rem 0 0 0;
+}
+
+.image > g > g {
+  opacity: 0;
+}
+
+.image.show0 > g > :global(#Layer0) {
+  opacity: 1;
+}
+
+.image.show1 > g > :global(#Layer1) {
+  opacity: 1;
+}
+
+.image.show2 > g > :global(#Layer2) {
+  opacity: 1;
+}
+
+.image.show3 > g > :global(#Layer3) {
+  opacity: 1;
+}
+
+.image.show4 > g > :global(#Layer4) {
+  opacity: 1;
+}
+
+.image.show5 > g > :global(#Layer5) {
+  opacity: 1;
+}
+
+.image.show6 > g > :global(#Layer6) {
+  opacity: 1;
+}
+
+.image.show7 > g > :global(#Layer7) {
+  opacity: 1;
+}
+
+.image.show8 > g > :global(#Layer8) {
+  opacity: 1;
+}
+
+.image.show9 > g > :global(#Layer9) {
+  opacity: 1;
+}
+
+.image.show10 > g > :global(#Layer10) {
+  opacity: 1;
+}
+
+.title {
+  margin: 0 0;
+  text-align: center;
+}
+
+.letter {
+  margin: 0 0.1rem;
+}
+
+.word {
+  text-transform: uppercase;
+  margin: 2rem 0 1rem 0;
+  font-size: 2.5rem;
+}
+
+.win,
+.lose {
+  font-size: 2rem;
+  margin: 1rem 0 0 0;
+  font-weight: bold;
+}
+
+.win {
+  color: green;
+}
+
+.lose {
+  color: red;
+}
+
+.alphabet {
+  display: flex;
+  flex-wrap: wrap;
+  width: 30rem;
+  padding: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.letterButton {
+  outline: none;
+  border: none;
+  background-color: aquamarine;
+  margin: 0.3rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  text-align: center;
+  border-radius: 2rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition-duration: 0.3s;
+}
+
+.letterButton:hover {
+  background-color: rgb(7, 209, 142);
+}
+
+.letterButton:disabled,
+.letterButton:disabled:hover {
+  background-color: grey;
+}
+
+.letterButton.correct:disabled {
+  background-color: white;
+  border: 2px solid green;
+  color: green;
+}
+
+.letterButton.incorrect:disabled {
+  background-color: white;
+  border: 2px solid red;
+  color: red;
+}
+
+.resetButton {
+  outline: none;
+  border: none;
+  background-color: rgb(127, 150, 255);
+  margin: 1.1rem 0 0 0;
+  padding: 0.6rem;
+  text-align: center;
+  border-radius: 2rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition-duration: 0.3s;
+}
+
+.resetButton:hover {
+  background-color: rgb(63, 94, 231);
+}

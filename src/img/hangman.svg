@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 533 744" version="1.1" xmlns="http://www.w3.org/2000/svg"  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-757.328,-315.765)">
+        <g id="Layer0" class="base">
+            <path d="M767.364,1049.52L1279.77,1046.09" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer1" class="frame">
+            <path d="M767.364,1049.64L767.364,325.801" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer2" class="frame2">
+            <path d="M767.364,325.801L1054.7,325.801" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer3" class="top">
+            <path d="M767.364,865.117C771.242,860.122 905.4,1049.45 913.407,1046.09" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer4" class="rope">
+            <path d="M1054.7,325.801L1054.7,488.563" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer5" class="body">
+            <ellipse cx="1050.39" cy="563.524" rx="74.18" ry="74.962" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer6">
+            <path d="M1050.39,638.486L1050.39,809.285" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer7">
+            <path d="M1050.39,809.285L963.809,909.826" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer8">
+            <path d="M1050.39,809.285L1141.6,909.826" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer9">
+            <path d="M1050.39,707.707L951.077,706.473" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+        </g>
+        <g id="Layer10">
+            <path d="M1050.39,706.473L1141.6,706.473" style="fill:none;stroke:black;stroke-width:20.07px;"/>
+                    <g transform="matrix(1.04188,0,0,1.3544,-43.4075,-198.906)">
+                <path d="M1007.1,538.696L1036.42,561.252" style="fill:none;stroke:black;stroke-width:8.19px;"/>
+            </g>
+            <g transform="matrix(1.04188,0,0,1.3544,15.5472,-198.292)">
+                <path d="M1007.1,538.696L1036.42,561.252" style="fill:none;stroke:black;stroke-width:8.19px;"/>
+            </g>
+            <g transform="matrix(0.996773,0.0802762,-0.0802762,0.996773,46.4632,-79.0348)">
+                <path d="M1007.1,561.252L1036.42,529.474" style="fill:none;stroke:black;stroke-width:9.9px;"/>
+            </g>
+            <g transform="matrix(0.996773,0.0802762,-0.0802762,0.996773,105.418,-78.4207)">
+                <path d="M1007.1,561.252L1036.42,529.474" style="fill:none;stroke:black;stroke-width:9.9px;"/>
+            </g>
+            <path d="M1024,597.829C1043.1,577.276 1061.82,576.69 1080.1,599.953" style="fill:none;stroke:black;stroke-width:9.9px;"/>
+        </g>
+        <!-- <g id="Layer11">
+    
+        </g> -->
+    </g>
+</svg>
